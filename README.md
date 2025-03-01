@@ -10,3 +10,7 @@
 - 📦 Backend: **Node.js, Express, Django, Spring Boot**  
 - 🎨 Frontend: **React.js, Next.js, Tailwind CSS, Angular**  
 - ☁️ Cloud & DevOps: **AWS, Docker**
+
+## 📊 Estadísticas  
+![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisCondori98&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisbarker11&layout=compact&theme=tokyonight)  
