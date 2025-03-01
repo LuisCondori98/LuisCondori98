@@ -13,4 +13,4 @@
 
 ## 📊 Estadísticas  
 ![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisCondori98&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisbarker11&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCondori98&layout=compact&theme=tokyonight)  
