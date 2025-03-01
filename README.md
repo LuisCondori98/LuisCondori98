@@ -14,3 +14,7 @@
 ## 📊 Estadísticas  
 ![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisCondori98&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCondori98&layout=compact&theme=tokyonight)  
+
+## 📬 Contáctame  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuisBarker-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/luisbarker](https://www.linkedin.com/in/luis-condori-anaya/))
+[![Email](https://img.shields.io/badge/Email-luisbarker11@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lcondori11@hotmail.com)  
