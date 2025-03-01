@@ -13,4 +13,4 @@
 
 ## 📬 Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-condori-anaya/)
-[![Email](https://img.shields.io/badge/Email-luisbarker11@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lcondori11@hotmail.com)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lcondori11@hotmail.com)
